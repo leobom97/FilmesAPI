@@ -1,0 +1,1 @@
+Para executar a aplicação, basta abrir o cmd na pasta onde o projeto se encontra, em seguida digite o seguinte comando no cmd:'npm start'
